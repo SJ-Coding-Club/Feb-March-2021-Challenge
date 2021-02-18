@@ -25,7 +25,7 @@ Wednesday: 46F
 There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day. Compute the number of seconds in 2 days.
 
 ## Problem 02
-Water boils at 100&deg;C. Write a program that takes the temperature as an input value and prints whether or not water will boil at that temperature.
+Water boils at around 100&deg;C and above under standard conditions. Write a program that takes the current temperature as an input value and prints whether or not water will boil at that temperature.
 
 Here's a little guide on taking user input if you're unfamiliar:
 ``` Python
